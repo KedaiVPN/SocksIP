@@ -4,7 +4,7 @@
 ## INSTALATION SCRIPT
 
 ```html
-wget https://raw.githubusercontent.com/rudi9999/SocksIP-udpServer/main/UDPserver.sh; chmod +x UDPserver.sh; ./UDPserver.sh
+wget https://raw.githubusercontent.com/KedaiVPN/SocksIP/main/UDPserver.sh; chmod +x UDPserver.sh; ./UDPserver.sh
 ```
 UDPserver Binary by team newtoolsworks :point_right: [AQUI](https://bitbucket.org/iopmx/udprequestserver/src/master/)
 
